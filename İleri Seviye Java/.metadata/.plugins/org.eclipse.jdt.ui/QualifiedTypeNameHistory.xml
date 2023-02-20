@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="springIntro.CustomerDal"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="javax.naming.Context"/>
+    <fullyQualifiedTypeName name="springIntro.ICustomerDal"/>
+    <fullyQualifiedTypeName name="springIntro.CustomerManager"/>
+    <fullyQualifiedTypeName name="springIntro.ICustomerService"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Conditional"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
+    <fullyQualifiedTypeName name="com.springdemo.ICustomerDal"/>
+    <fullyQualifiedTypeName name="com.springdemo.MsSqlCustomerDal"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="com.springdemo.ICustomerService"/>
+    <fullyQualifiedTypeName name="com.springdemo.CustomerManager"/>
+    <fullyQualifiedTypeName name="com.springdemo.MySqlCustomerDal"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.PropertySource"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+    <fullyQualifiedTypeName name="org.hibernate.annotations.Entity"/>
+    <fullyQualifiedTypeName name="javax.persistence.Table"/>
+    <fullyQualifiedTypeName name="javax.persistence.Id"/>
+    <fullyQualifiedTypeName name="org.hibernate.cfg.Configuration"/>
+    <fullyQualifiedTypeName name="org.hibernate.SessionFactory"/>
+    <fullyQualifiedTypeName name="org.hibernate.Session"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.hibernatedemo.Actor"/>
+    <fullyQualifiedTypeName name="javax.xml.bind.JAXBContext"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="com.hibernatedemo.actor"/>
+    <fullyQualifiedTypeName name="com.hibernatedemoo.Actor"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,23 @@
+package com.javacourse.project.hibernateAndJpa.restApi;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+import com.javacourse.project.hibernateAndJpa.Business.IActorService;
+import com.javacourse.project.hibernateAndJpa.Entities.Actor;
+
+@RestController
+@RequestMapping("/api")
+public class ActorController {
+	private IActorService actorService;
+	
+	@Autowired
+	public ActorController(IActorService actorService) {
+		this.actorService = actorService;
+	}
+	public List<Actor> get(){
+		return actorService.getAll();
+	}
+}
